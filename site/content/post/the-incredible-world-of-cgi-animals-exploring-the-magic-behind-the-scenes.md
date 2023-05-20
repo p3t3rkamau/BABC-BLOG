@@ -10,8 +10,6 @@ description: >
   by exploring the first step: the incredible world of 3D modeling.
 image: img/sans-titre-9.jpg
 ---
-
-
 # Unleashing the Power of 3D Modeling:
 
 Step into the realm of 3D modeling, where digital objects of astonishing complexity are brought to life. From animated characters in blockbuster movies to interstellar spaceships in modern epics like Star Wars, the art of 3D modeling is the backbone of visual effects.However, when it comes to crafting realistic CG animals, there's a unique challenge – their internal anatomy must be meticulously modeled. Unlike most 3D models that are hollow and devoid of interior components
@@ -31,4 +29,4 @@ strand of hair, from the animal's coat to its eyelashes. Using intricate curves 
 
 Transitioning from gray-shaded geometry to a vibrant, lifelike fur coat requires the expertise of shading artists.These unsung heroes manipulate the fur's physical properties and its interaction with light. Delving into every intricate detail, they determine the color, reflectivity, and translucency of the fur, even considering the nuances of transparent roots and opaque tips. This final touch elevates the fur asset to new heights of realism, ready to traverse the production pipeline.
 
-{﻿{< youtube ke4Isk-po2Y >}}
+<iframe width="1038" height="584" src="https://www.youtube.com/embed/ke4Isk-po2Y" title="How Talking Animals Are Created For Movies | Movies Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
